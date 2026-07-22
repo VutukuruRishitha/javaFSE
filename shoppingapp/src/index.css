@@ -1,0 +1,29 @@
+.mydiv {
+  text-align: center;
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+
+.mydiv h1 {
+  color: green;
+}
+
+.cart-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 2px solid #ccc;
+}
+
+.cart-table th, .cart-table td {
+  border: 1px solid #ccc;
+  padding: 8px 20px;
+}
+
+.cart-table th {
+  color: green;
+}
+
+.cart-table td {
+  color: #555;
+  font-weight: 500;
+}
