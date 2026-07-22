@@ -1,0 +1,42 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+.mystyle1, .st2, .v1 {
+  padding: 0 40px;
+}
+
+.st2 {
+  border-left: 3px solid green;
+  border-right: 3px solid green;
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+
+h4 {
+  font-size: 1em;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
